@@ -41,4 +41,4 @@ Mumble is designed with the following usability criteria in mind:
    - Join discussions, attend events, and connect with others—it's more than just an app; it's a community.
 
 ## User Manual
-For detailed instructions on using Mumble, check out our [User Manual](docs/user_manual.md).
+For detailed instructions on using Mumble, check out our [User Manual](user_manual.md).
